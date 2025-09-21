@@ -1,4 +1,4 @@
-# MERN Blog Project
+# MERN Blog Project - Mini Project
 
 A full-stack blog platform built with **MongoDB, Express.js, React.js, Node.js**, and **Bootstrap**.
 
